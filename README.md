@@ -16,9 +16,10 @@ To access the features of D'Xpresso, please use the following login credentials:
 
 ## Get Started ▶️
 ### Clone the Repository
-    git clone https://github.com/Alizaaaja4/Project_C-Ver.3.git
+    git clone https://github.com/Alizaaaja4/Project_Cpp-Ver.3/DXpresso.git
 
-### Run my Programs with
-    gcc DLinkedln.c -o DLinkedln
+### Compile and Run the Program
+    g++ DXpresso.cpp -o DXpresso
+    ./DXpresso
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F08080&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F2305&height=120&section=footer"/>
