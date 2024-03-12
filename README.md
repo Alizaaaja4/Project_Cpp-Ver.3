@@ -4,15 +4,16 @@
 
 ## About 📖
 
-D'Xpresso is an automatic coffee machine program that allows buyers interact with the coffee machine when you want to buy coffee. There are two roles, namely: D'Xpresso Admin and D'Xpresso Member.
+D'Xpresso is an automated coffee machine program that allows shoppers to interact with the coffee machine when they want to buy coffee or snacks. This program is limited to D'Xpresso members, who have special access to use the machine.
 
 ## Authentication 🔐
 
 To access the features of D'Xpresso, please use the following login credentials:
 
-### For Admin Access:
-- Username: `ALLcpp`
+### For Member Access:
+- Username: `ngopi`
 - Password: `000`
+- Voucher: `daskom`
 
 ## Get Started ▶️
 ### Clone the Repository
