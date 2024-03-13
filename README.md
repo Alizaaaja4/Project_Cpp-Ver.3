@@ -13,7 +13,10 @@ To access the features of D'Xpresso, please use the following login credentials:
 ### For Member Access:
 - Username: `ngopi`
 - Password: `000`
-- Voucher: `daskom`
+
+### Voucher For Member:
+- Coffee: `daskom`
+- Snack: `loopingforever`
 
 ## Get Started ▶️
 ### Clone the Repository
